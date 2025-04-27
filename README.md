@@ -15,4 +15,4 @@ Dashboard foi criado para o aprendizado de Análise de Dados, Visualização de 
 🔹 Insights preditivos – Identificando padrões de risco potenciais por meio de análises visuais.
 
 
-Este projeto ajuda a compreender insights de saúde baseados em dados usando o Power BI.
+Este projeto ajuda a compreender insights de saúde baseados em dados usando o Power BI!
