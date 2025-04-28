@@ -1,3 +1,5 @@
+## DASHBOARD POWER BI
+
 Dashboard foi criado para o aprendizado de Análise de Dados, Visualização de Dados e Ciência de Dados. Ele fornece insights significativos sobre os fatores de risco do diabetes usando recursos visuais interativos e análises avançadas.
 
 🔹 Métricas-chave – Total de pacientes, IMC, glicose, pressão arterial e níveis de insulina.
